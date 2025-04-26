@@ -1,6 +1,10 @@
 # 🧪 Constructs of Madness
 > **Building What Logic Abandoned.**
 
+<p align="center">
+  <img src="assets/banner.png" alt="Constructs of Madness Banner" width="800"/>
+</p>
+
 [![Release Badge](https://img.shields.io/github/v/release/yourname/constructs-of-madness?style=flat-square)](https://github.com/yourname/constructs-of-madness/releases)
 [![Docs Badge](https://img.shields.io/badge/docs-organized-blueviolet?style=flat-square)](docs/)
 [![Madness Badge](https://img.shields.io/badge/madness-approved-brightgreen?style=flat-square)]()
